@@ -37,8 +37,10 @@ Documentation of the whole process
 
 RECOMMENDATIONS.
 
- I highly recommend Microsoft to major in the production of the following movies 
-which generated the highest incomes.
- Star Wars: The Force Awakens.
+ I highly recommend Microsoft to major in the production of the following movies which generated the highest incomes.
+
+Star Wars: The Force Awakens.
+
  Black Panther.
+
  Avengers
